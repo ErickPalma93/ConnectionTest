@@ -1,0 +1,51 @@
+# Folders do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+out/
+
+# Arquivos de log
+*.log
+
+# Diretórios de pacotes NuGet e cache
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Configurações de publicação e do sistema
+publish/
+app.publish/
+
+# Arquivos de cache e temporários
+*.pidb
+*.svd
+*.pdb
+*.tmp
+*.temp
+*.tmp.*
+*.scc
+*.vscode/
+ipch/
+
+# Arquivos específicos de IDE
+_ReSharper*/
+*.DotSettings.user
+.idea/
+.vscode/
+*.sln.docstates
+
+# Configurações locais de usuário
+*.orig
+.env
+.env.*
+*.ps1xml
+*.psc1
+
+# Arquivos de debug/crash
+crashlog.txt
+hs_err_pid*.log
